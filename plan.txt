@@ -1,0 +1,18 @@
+--New farming game--
+
+-needs-
+
+farming,
+selling,
+buying,
+10+ unique plants,
+questing,
+data saving.
+
+-should have-
+
+anticheat,
+art,
+character customisation,
+buyable plots
+
